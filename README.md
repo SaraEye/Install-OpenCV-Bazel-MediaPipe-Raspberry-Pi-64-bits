@@ -1,6 +1,5 @@
 # Install-OpenCV-Bazel-MediaPipe-Raspberry-Pi-64-bits
-![output image]( https://sarakit.saraai.com/images/_mainboard/SaraKIT_MainboardBig.png )
-<img src="https://sarakit.saraai.com/images/_mainboard/SaraKIT_MainboardBig.png" width="500">
+<img src="https://sarakit.saraai.com/images/_mainboard/SaraKIT_MainboardBig.png" width="600">
 
 ## OpenCV, Bazel, MediaPipe installation script for a Raspberry Pi with 64-bits OS
 
