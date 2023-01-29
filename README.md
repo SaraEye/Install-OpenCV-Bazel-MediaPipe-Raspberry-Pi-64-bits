@@ -30,7 +30,7 @@ $ ./bazel_4.2.1_install.sh
 ```
 for Bazel 5.0.0 version:
 ```
-$ wget --backups=1 https://saraai.com/_SaraKIT/bazel/4.2.1/bazel_5.0.0_install.sh
+$ wget --backups=1 https://saraai.com/_SaraKIT/bazel/5.0.0/bazel_5.0.0_install.sh
 $ sudo chmod +x bazel_5.0.0_install.sh
 $ ./bazel_5.0.0_install.sh
 
