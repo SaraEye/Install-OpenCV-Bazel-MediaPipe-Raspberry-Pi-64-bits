@@ -28,14 +28,20 @@ $ sudo chmod +x bazel_4.2.1_install.sh
 $ ./bazel_4.2.1_install.sh
 
 ```
-for Bazel 5.0.0 version:
+for Bazel 5.0.0 version ("find_cpp_toolchain" problem with mediapipe):
 ```
 $ wget --backups=1 https://saraai.com/_SaraKIT/bazel/5.0.0/bazel_5.0.0_install.sh
 $ sudo chmod +x bazel_5.0.0_install.sh
 $ ./bazel_5.0.0_install.sh
 
 ```
+for Bazel 5.2.0 version (compatible with the current version of mediapipe):
+```
+$ wget --backups=1 https://saraai.com/_SaraKIT/bazel/5.2.0/bazel_5.2.0_install.sh
+$ sudo chmod +x bazel_5.2.0_install.sh
+$ ./bazel_5.2.0_install.sh
 
+```
 ------------
 
 ## Installing MediaPipe.
