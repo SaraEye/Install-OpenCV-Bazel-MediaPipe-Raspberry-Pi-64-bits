@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](https://opensource.org/licenses/Apache-2.0)<br/>
 
-This is a simplified way to install OpenCV, Bazel and MediaPipe for Raspberry Pi 4 64 bit (5.15.84-v8+)<br/>
+This is a simplified way to install OpenCV, Bazel and MediaPipe for Raspberry Pi 4 64 bit (5.15.84-v8+, 6.1.21-v8+)<br/>
 For more information see [SaraKIT for Raspberry Pi](https://sarakit.saraai.com/getting-started/software)
 
 ------------
